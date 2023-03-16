@@ -2,4 +2,4 @@
 
 # **Code**
 
-![Blue Rectangle](path/to/rectangle.svg)
+![Blue Rectangle](github.svg)
