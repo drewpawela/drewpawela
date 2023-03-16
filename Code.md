@@ -2,3 +2,4 @@
 
 # **Code**
 
+![Blue Rectangle](path/to/rectangle.svg)
