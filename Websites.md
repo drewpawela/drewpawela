@@ -8,3 +8,4 @@
 
 [Trading View](https://www.tradingview.com/)
 
+[next page](Code.md)
